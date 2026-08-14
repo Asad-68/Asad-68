@@ -2,7 +2,7 @@
 
 ### B.Tech CSE Student | Full-Stack Developer | Data & AI Enthusiast
 
-I'm a **3rd-year Computer Science & Engineering student at BIT Mesra (Deoghar)** who enjoys building practical software, working with data, and exploring AI/ML.
+I'm a **final year Computer Science & Engineering student at BIT Mesra ** who enjoys building practical software, working with data, and exploring AI/ML.
 
 * 🔭 Currently working on **full-stack, data analytics, and AI-powered projects**
 * 🌱 Currently learning **DSA with Python, Next.js, TypeScript, and modern full-stack development**

@@ -112,7 +112,7 @@ A web application that estimates student stress levels using fuzzy logic.
 
 ---
 
-### 🖋️ HFET-Net — Handwritten Devanagari Recognition
+### 🖋️ TSSA-Net — Handwritten Devanagari Recognition
 
 **TensorFlow | Keras | EfficientNet | CNN | Transformer | Attention**
 
